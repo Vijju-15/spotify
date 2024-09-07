@@ -1,0 +1,25 @@
+.border {
+    border: 2px solid white
+}
+
+.align-center {
+    align-items: center;
+}
+
+.justify {
+    justify-content: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.bg-grey {
+    background-color: #121212;
+    color: white;
+    border-radius: 15px;
+}
+
+.bl{
+    font-weight: bold;
+}
